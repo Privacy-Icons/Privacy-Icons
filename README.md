@@ -67,8 +67,8 @@ Most readers have probably heard the phrase: "Do good - and talk about it." This
 All Icons are licensed under Creative Commons Attribution-ShareAlike (CC BY-SA): This license lets others remix, adapt, and build upon our work even for commercial purposes, as long as they credit the authors and license their new creations under the identical terms. See the licence aggreement under: https://creativecommons.org/licenses/by-sa/4.0/legalcode.
 
 ## Authors
-Julie Heumüller
-Max v. Grafenstein
-Isabel Kiefaber
-Valentin Rupp
+Julie Heumüller,
+Max v. Grafenstein,
+Isabel Kiefaber,
+Valentin Rupp,
 Otto Kolleß
