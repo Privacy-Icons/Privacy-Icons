@@ -68,11 +68,7 @@ All Icons are licensed under Creative Commons Attribution-ShareAlike (CC BY-SA):
 
 ## Authors
 Julie Heumüller
-
 Max v. Grafenstein
-
 Isabel Kiefaber
-
 Valentin Rupp
-
 Otto Kolleß
