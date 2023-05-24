@@ -62,3 +62,12 @@ It was only on the basis of these qualitative tests that we tested different var
 
 ## 5. Use your design as a competitive advantage
 Most readers have probably heard the phrase: "Do good - and talk about it." This is exactly what you should do if you have designed understandable privacy information with privacy icons that work. This is especially the case if you have been able to empirically demonstrate that your design effectively informs your users about their benefits and risks, or even most effectively compared to similar services offered by your competitors. The reason for this, in the context here as well, is not only charitable but also business – even in a radical sense: if you can prove that your designs represent the new SoA, this fact pushes your competitors into the grey area of legality. Because at least in the scope of the GDPR, Article 25 section 1 forces your competitors to take into account the SoA you have developed further in their own implementation. Your designs thus become the benchmark for the entire market. For this to work, you have to talk about it, and this in turn comes not only to the benefit of your business, but ultimately to the entire society.
+
+All Icons are licenced under Creative Commons Attribution-ShareAlike (CC BY-SA): This license lets others remix, adapt, and build upon our work even for commercial purposes, as long as they credit the authors and license their new creations under the identical terms. See the licence aggreement under: https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+
+## Authors:
+Julie Heumüller
+Max v. Grafenstein
+Isabel Kiefaber
+Valentin Rupp
+Otto Kolleß
